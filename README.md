@@ -1,4 +1,4 @@
-### CPNT262-NPM PRACTICE
+### CPNT262-NPM activity1
 
 ## by Sanaz Daneshvar
 ### [Github link] (https://sanazdaneshvar.github.io/hello-npm)
