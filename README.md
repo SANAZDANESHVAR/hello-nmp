@@ -15,4 +15,4 @@ Micheal  help and support me for this project.
 
 ### Objective
 
-The purpose of this activity is Installing momentjs in an existing project.
+The purpose of this activity is Initialize a new project and install nodemon.
